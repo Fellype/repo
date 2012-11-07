@@ -11,4 +11,9 @@ public class Teste2 {
 		fail("Not yet implemented");
 	}
 
+	private void Sysout() {
+		// TODO Auto-generated method stub
+		System.out.println("Teste GIT");
+	}
+	
 }
