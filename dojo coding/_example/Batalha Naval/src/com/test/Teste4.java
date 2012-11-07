@@ -1,5 +1,5 @@
 package com.test;
 
 public class Teste4 {
-	//TESTE
+	//TESTE 2
 }
